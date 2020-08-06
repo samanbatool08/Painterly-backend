@@ -1,24 +1,21 @@
-# README
+# Painterly - Ruby on Rails / React JS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+###### Painterly allows users to create customized paintings using a color toolbar. Users can save their paintings to edit later or add them to personal or public collections based on user choice. 
 
-Things you may want to cover:
+###### You can find the React JS Frontend for this app here: https://github.com/samanbatool08/painterly-frontend
 
-* Ruby version
 
-* System dependencies
+###### Live website to try out yourself: https://painterly-drawing-app.herokuapp.com/
 
-* Configuration
+## Features: 
 
-* Database creation
+###### 1. React memoization used to update current user color via state. 
+###### 2. API backed configuration using PostrgesSQL.
+###### 3. Customizable color selection using react-color in addition to staple colors. 
+###### 4. Each individual user painting posted as an arrary of arrays for retrieval on backend. 
+###### 5. API integration followed using RESTful conventions 
+###### 6. HTML/CSS used optimizing bootstrap and flex.
 
-* Database initialization
+###### Watch Demo here: https://youtu.be/VAqojoB4fyE
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![JAVA BASIC](https://img.youtube.com/vi/VAqojoB4fyE/0.jpg)](https://www.youtube.com/watch?v=VAqojoB4fyE)
